@@ -41,3 +41,51 @@ This project demonstrates a simple but powerful neural network built using Tenso
 
 ## 📁 Project Structure
 
+
+---
+
+## 🧪 How to Run
+
+> Recommended: Google Colab (no local setup required)
+
+1. Open [`mnist_model.ipynb`](mnist_model.ipynb) in Google Colab
+2. Run all cells
+3. Watch the model train and evaluate
+
+---
+
+## 📈 Sample Output
+
+![MNIST Accuracy Curve](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
+
+> Visual of sample handwritten digits.
+
+---
+
+## 📌 Future Improvements
+
+- [ ] Add CNN version for better accuracy
+- [ ] Hyperparameter tuning (GridSearch / Optuna)
+- [ ] Export model as `.h5` or `TFLite` for mobile
+- [ ] Deploy using Flask or Streamlit
+
+---
+
+## 🤝 Contributing
+
+Pull requests welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📜 License
+
+MIT License. See `LICENSE` file for details.
+
+---
+
+## 🙌 Acknowledgements
+
+- [LeCun's MNIST page](http://yann.lecun.com/exdb/mnist/)
+- TensorFlow/Keras documentation
+
+
