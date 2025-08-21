@@ -40,7 +40,7 @@ This project demonstrates a simple but powerful neural network built using Tenso
 ---
 
 ## 📁 Project Structure
-
+show soon
 
 ---
 
